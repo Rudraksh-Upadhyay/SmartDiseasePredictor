@@ -1,0 +1,11 @@
+Fever,Cough,Headache,Fatigue,Disease
+1,1,0,1,Flu
+0,1,1,0,Cold
+1,0,1,1,Malaria
+1,1,1,1,Dengue
+0,1,0,1,Typhoid
+1,0,1,0,Diabetes
+0,0,1,1,Migraine
+1,1,0,0,Pneumonia
+0,0,1,0,Hypertension
+1,0,0,1,Chikungunya
